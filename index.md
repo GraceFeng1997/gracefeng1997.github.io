@@ -1,3 +1,5 @@
+<!doctype html>
+<html lang="zh">
 
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -316,3 +318,5 @@
 			<!-- <script type='text/javascript' src="statics/js/mediaelement-and-player.min.js"></script> -->
 
 	</body>
+
+</html>
