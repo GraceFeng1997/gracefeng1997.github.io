@@ -316,5 +316,3 @@
 			<!-- <script type='text/javascript' src="statics/js/mediaelement-and-player.min.js"></script> -->
 
 	</body>
-
-</html>
